@@ -1,0 +1,6 @@
+D:\visual stoudio codes\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\visual stoudio codes\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\visual stoudio codes\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\visual stoudio codes\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\visual stoudio codes\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\visual stoudio codes\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
