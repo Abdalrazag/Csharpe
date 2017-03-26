@@ -1,0 +1,6 @@
+D:\visual stoudio codes\Q10_Switch\Q10_Switch\bin\Debug\Q10_Switch.exe.config
+D:\visual stoudio codes\Q10_Switch\Q10_Switch\bin\Debug\Q10_Switch.exe
+D:\visual stoudio codes\Q10_Switch\Q10_Switch\bin\Debug\Q10_Switch.pdb
+D:\visual stoudio codes\Q10_Switch\Q10_Switch\obj\Debug\Q10_Switch.csprojResolveAssemblyReference.cache
+D:\visual stoudio codes\Q10_Switch\Q10_Switch\obj\Debug\Q10_Switch.exe
+D:\visual stoudio codes\Q10_Switch\Q10_Switch\obj\Debug\Q10_Switch.pdb
