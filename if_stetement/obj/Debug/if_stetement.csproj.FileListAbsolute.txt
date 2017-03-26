@@ -1,0 +1,6 @@
+D:\visual stoudio codes\if_stetement\if_stetement\bin\Debug\if_stetement.exe.config
+D:\visual stoudio codes\if_stetement\if_stetement\bin\Debug\if_stetement.exe
+D:\visual stoudio codes\if_stetement\if_stetement\bin\Debug\if_stetement.pdb
+D:\visual stoudio codes\if_stetement\if_stetement\obj\Debug\if_stetement.csprojResolveAssemblyReference.cache
+D:\visual stoudio codes\if_stetement\if_stetement\obj\Debug\if_stetement.exe
+D:\visual stoudio codes\if_stetement\if_stetement\obj\Debug\if_stetement.pdb
