@@ -24,8 +24,8 @@ namespace ConsoleApplication9
             Console.ReadKey();      
 
 
-    */
-
+    */ //************************************QUIZ***************************************************
+    /*
             int Salary = 1020;
             int i=0;
             do
@@ -33,14 +33,34 @@ namespace ConsoleApplication9
                 Salary +=20;
                 i++;
                 
-                
+              
             } while (Salary <= 2000);
 
             int year = i/12 , month = i%12;
 
             Console.WriteLine("The Salary need to Equal 2000 of {0}{1} and {2}{3}",year,"year",month,"month");
 
+            Console.ReadKey();*/
+
+
+
+            int ex=0, weight = 120;
+
+            while (weight>83)
+            {
+                ex++;
+                weight -= 1;
+            }
+            Console.WriteLine("Your need {0} exercises for to 83KG",ex);
             Console.ReadKey();
+
+
+
+
+
+
+
+
 
         }
     }
